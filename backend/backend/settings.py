@@ -144,6 +144,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    'https://myatik.github.io/YelpCamp/',
+    'https://myatik.github.io/YelpCamp',
 
 ]
